@@ -1,3 +1,5 @@
+Full method of Downlaod Virtual Box on Kali Linux Terminal with commands and DIRECTORIES
+
 ┌──(kalii㉿localhost)-[~/Downloads]
 └─$ sudo apt purge virtualbox-7.2 virtualbox
 Package 'virtualbox' is not installed, so not removed
